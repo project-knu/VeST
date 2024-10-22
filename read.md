@@ -13,3 +13,12 @@ decoder based ranking
 ![image](https://github.com/user-attachments/assets/eea78e63-fa9b-4209-afb6-a7409104b144)
 ![image](https://github.com/user-attachments/assets/9831a813-1cf8-4a88-ac0f-2156a01da491)
 ![image](https://github.com/user-attachments/assets/03fa0e1d-d302-4345-8912-9d97d4e89203)
+MJBench
+![image](https://github.com/user-attachments/assets/47b62778-05b8-4a45-94be-ae0ee42602be)
+![image](https://github.com/user-attachments/assets/87a7688a-6537-4363-be4c-895ef7423cda)
+![image](https://github.com/user-attachments/assets/79162231-1cf0-4e1b-956a-bdb87c197784)
+![image](https://github.com/user-attachments/assets/27eb59b2-fa68-4a2e-8cac-782668b18f63)
+![image](https://github.com/user-attachments/assets/84e6830b-00e1-40d4-a7dd-97bb80bce169)
+![image](https://github.com/user-attachments/assets/a55f134e-6e83-4724-8c29-ddd628dacb66)
+![image](https://github.com/user-attachments/assets/1cb0b4c0-9afa-4a73-a99c-d1a33e8a2c57)
+![image](https://github.com/user-attachments/assets/34227585-405b-4820-949f-9e7ab37edb7c)
