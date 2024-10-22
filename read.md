@@ -21,4 +21,74 @@ MJBench
 ![image](https://github.com/user-attachments/assets/84e6830b-00e1-40d4-a7dd-97bb80bce169)
 ![image](https://github.com/user-attachments/assets/a55f134e-6e83-4724-8c29-ddd628dacb66)
 ![image](https://github.com/user-attachments/assets/1cb0b4c0-9afa-4a73-a99c-d1a33e8a2c57)
+
+MLLM-as-a-judge score base
+![image](https://github.com/user-attachments/assets/68bab37a-1b0b-4986-b56c-7703d97bd05c)
+
+![image](https://github.com/user-attachments/assets/57504c97-e586-4863-b516-d1b5be1e8c0d)
+![image](https://github.com/user-attachments/assets/336b2316-7cd1-4263-8959-947a17671764)
+
 ![image](https://github.com/user-attachments/assets/34227585-405b-4820-949f-9e7ab37edb7c)
+
+![image](https://github.com/user-attachments/assets/0151ce0b-0104-47fd-9853-ac75a375e22d)
+![image](https://github.com/user-attachments/assets/57f910f9-7516-4669-9c76-72d33534c7e5)
+
+![image](https://github.com/user-attachments/assets/3a9a2910-7de6-4362-bf63-34b2d5251b41)
+
+![image](https://github.com/user-attachments/assets/bc51b701-b2f2-4cef-a192-4bb5a60de1b5)
+![image](https://github.com/user-attachments/assets/dad8c062-901b-4c9a-bc91-7daf9de3753e)
+![image](https://github.com/user-attachments/assets/4ff738d7-3e59-40ae-8446-284c607f1f9a)
+
+LMM-as-a-judge 프로메테우스
+-----------
+Prompt for rubric augmentation
+You are helpful and creative rubric generator. You should brainstorm creative and
+impressive three rubrics used to evaluate
+the ability of a vision-language model to
+generate text when given an image.
+The rubric must be structured to assess areas that can be answered by viewing
+the image. It consists of a description
+explaining specific tasks and criteria for
+scoring. Here you will see 4 examples
+of ’criteria’, and their scoring rubrics,
+formatted as JSON.
+Criteria 1:
+{Example Criteria 1}
+Criteria 2:
+{Example Criteria 2}
+Criteria 3:
+{Example Criteria 3}
+Criteria 4:
+{Example Criteria 4}
+Please brainstorm new three criterias
+and scoring rubrics.
+Be creative and create new but useful
+criteria that people in different settings or
+industries might find practical.
+Please format the output as same as the
+above examples with no extra or surrounding text. And you should not mention
+the term like ‘Criteria X:’ and “‘json”’.
+In JSON, all keys and string values must
+be enclosed in double quotes (""). For
+example, "key": "value" is a valid format,
+but key: "value" or ’key’: ’value’ are not
+valid.
+You should create a diverse rubrics suitable
+for the given image
+Generated criteria:
+![image](https://github.com/user-attachments/assets/e96a88d2-bb50-49c4-a4c0-ee7695eeea50)
+![image](https://github.com/user-attachments/assets/c0c05903-540d-4c6c-bfb1-cecf5c98bcda)
+
+![image](https://github.com/user-attachments/assets/894085a5-142e-4e77-83e2-bbdf866d4f9d)
+![image](https://github.com/user-attachments/assets/094aa94b-9eca-4fe2-b353-cbca28e00a6e)
+![image](https://github.com/user-attachments/assets/a824a061-de56-4460-9c51-ca56717077c5)
+![image](https://github.com/user-attachments/assets/1e0d5b5c-08d0-4aef-9dda-ae0da7c7fd19)
+![image](https://github.com/user-attachments/assets/fe17613e-1dab-415a-9628-a699157f33fd)
+
+![image](https://github.com/user-attachments/assets/baae2c6a-c724-4df9-bdc1-b600761ddc3c)
+![image](https://github.com/user-attachments/assets/81178514-fbec-47cb-a72f-303388e48818)
+![image](https://github.com/user-attachments/assets/f4343879-7a73-449a-a624-7f69adc2339f)
+![image](https://github.com/user-attachments/assets/7de4f4f7-5b11-475a-a727-7ee772e8153c)
+![image](https://github.com/user-attachments/assets/8c2d37da-b73a-47ee-8774-cc1b520c41ed)
+![image](https://github.com/user-attachments/assets/75520fae-0832-4e33-b0a3-cef8a98bfe3e)
+
