@@ -110,5 +110,11 @@ Figure 3: An example where LLM-as-a-judge fails to provide an accurate judgement
 ![image](https://github.com/user-attachments/assets/41ff60d6-34dd-4bd7-9ecd-7dcc4275450e)
 ![image](https://github.com/user-attachments/assets/bfa49a63-3afe-4bed-8629-f17367cc9ac2)
 
+critique-out reward model
+![image](https://github.com/user-attachments/assets/b9f5518d-63da-4605-a21f-17c5a6c1343c)
 
+![image](https://github.com/user-attachments/assets/9c280996-baec-4984-89bd-2de4fc717bed)
+![image](https://github.com/user-attachments/assets/e58b2d64-5b5e-44ef-86c2-5634acbb53dd)
 
+![image](https://github.com/user-attachments/assets/72bee3a5-8cf9-4298-b802-3b188eb7c019)
+![image](https://github.com/user-attachments/assets/ef29d777-86fb-4ee9-8827-1d7005597179)
