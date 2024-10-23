@@ -1,5 +1,12 @@
-
+llava-critic
 ![image](https://github.com/user-attachments/assets/aa418a90-fa93-4277-b84a-66b50e7a7d29)
+![image](https://github.com/user-attachments/assets/0f22de04-a338-426c-a360-4a3f77de131a)
+![image](https://github.com/user-attachments/assets/4b4693f0-4cc7-4afa-a630-c71444d43639)
+![image](https://github.com/user-attachments/assets/8ffb43b8-9aef-49f3-8568-3016cec9930e)
+![image](https://github.com/user-attachments/assets/ec5ec791-bb79-4e00-82ea-ed42f4a8b670)
+![image](https://github.com/user-attachments/assets/27866702-d786-404b-a531-966598636e79)
+
+
 ![image](https://github.com/user-attachments/assets/ab55050e-e03f-4669-964e-41b3399c24d6)
 onevision
 ![image](https://github.com/user-attachments/assets/137e87cc-89c0-433c-9f60-a05a679c9076)
@@ -76,6 +83,8 @@ valid.
 You should create a diverse rubrics suitable
 for the given image
 Generated criteria:
+
+
 ![image](https://github.com/user-attachments/assets/e96a88d2-bb50-49c4-a4c0-ee7695eeea50)
 ![image](https://github.com/user-attachments/assets/c0c05903-540d-4c6c-bfb1-cecf5c98bcda)
 
