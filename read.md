@@ -101,3 +101,14 @@ Generated criteria:
 ![image](https://github.com/user-attachments/assets/8c2d37da-b73a-47ee-8774-cc1b520c41ed)
 ![image](https://github.com/user-attachments/assets/75520fae-0832-4e33-b0a3-cef8a98bfe3e)
 
+generative reward model
+-------------------------
+![image](https://github.com/user-attachments/assets/94f61b75-6018-40fe-bc56-f84f834eb469)
+
+Figure 3: An example where LLM-as-a-judge fails to provide an accurate judgement, but STaRDPO succeeds. Sentences where critical reasoning takes place are bolded for emphasis.
+![image](https://github.com/user-attachments/assets/adbaf367-b12b-45ef-81b5-8eb53acac845)
+![image](https://github.com/user-attachments/assets/41ff60d6-34dd-4bd7-9ecd-7dcc4275450e)
+![image](https://github.com/user-attachments/assets/bfa49a63-3afe-4bed-8629-f17367cc9ac2)
+
+
+
