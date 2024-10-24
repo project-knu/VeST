@@ -118,3 +118,12 @@ critique-out reward model
 
 ![image](https://github.com/user-attachments/assets/72bee3a5-8cf9-4298-b802-3b188eb7c019)
 ![image](https://github.com/user-attachments/assets/ef29d777-86fb-4ee9-8827-1d7005597179)
+
+improve vlm cot
+-------------------
+![image](https://github.com/user-attachments/assets/05cd9809-792c-42d0-b11f-36a76778929a)
+![image](https://github.com/user-attachments/assets/b1f10484-5200-45ae-984f-12d8a0a22e0b)
+
+![image](https://github.com/user-attachments/assets/2713b5ee-c227-4654-9de2-a891db191f39)
+![image](https://github.com/user-attachments/assets/a292ad40-7ea2-43cf-9651-c40d5c9325dc)
+![image](https://github.com/user-attachments/assets/dbc83773-4b96-48c1-bcce-267dc12e662f)
