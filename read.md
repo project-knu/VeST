@@ -127,3 +127,10 @@ improve vlm cot
 ![image](https://github.com/user-attachments/assets/2713b5ee-c227-4654-9de2-a891db191f39)
 ![image](https://github.com/user-attachments/assets/a292ad40-7ea2-43cf-9651-c40d5c9325dc)
 ![image](https://github.com/user-attachments/assets/dbc83773-4b96-48c1-bcce-267dc12e662f)
+
+MAVIS-Caption: 588K high-quality caption-diagram pairs, spanning geometry and function
+![image](https://github.com/user-attachments/assets/05bd0d5c-f21f-442a-962f-e5d011fadf94)
+MAVIS-Instruct: 834K instruction-tuning data with CoT rationales in a text-lite version
+![image](https://github.com/user-attachments/assets/2e876c13-e184-46a7-aa13-fe275b6f83b5)
+MAVIS-7B: an MLLM with a three-stage training paradigm achiving leading performance on MathVerse benchmark
+![image](https://github.com/user-attachments/assets/ed4e8851-2330-480b-acc3-35edb1dd2eb7)
