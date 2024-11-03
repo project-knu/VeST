@@ -134,3 +134,8 @@ MAVIS-Instruct: 834K instruction-tuning data with CoT rationales in a text-lite 
 ![image](https://github.com/user-attachments/assets/2e876c13-e184-46a7-aa13-fe275b6f83b5)
 MAVIS-7B: an MLLM with a three-stage training paradigm achiving leading performance on MathVerse benchmark
 ![image](https://github.com/user-attachments/assets/ed4e8851-2330-480b-acc3-35edb1dd2eb7)
+
+Inferaligner
+-------------------
+![image](https://github.com/user-attachments/assets/323cdcfa-d5ee-4e06-aa9b-353d64be3f72)
+![image](https://github.com/user-attachments/assets/3bea8562-b818-45a9-8e66-6fac4076972b)
